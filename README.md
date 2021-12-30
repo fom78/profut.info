@@ -45,6 +45,7 @@ usuario-prueba05
 ## Modo Admin
 - Editar partidos
 <hr>
+
 ### Quieres dejar una sugerencia, puedes hacerlo <a href="https://github.com/fom78/profut.info/issues">Aqui</a>
 <br />
 
