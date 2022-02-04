@@ -2,24 +2,11 @@
 
 # Landing Page
 - Es una pagina de presentacion y explicacion como va a funcionar el juego.
-- no acceder con google, de momento funciona con mis mails de prueba.
+- Unico acceso de momento con cuenta de Gmail.
 - Acceder desde: <a href="https://profut.vercel.app/">ProFut</a>
 
 # Como ingresar ?
-- el register no esta implementado, ni el alta con gmail.
-- Ingresar con algun user de prueba que figuran abajo de la landing Page, o usar algunos de los listados:
-
-```bash
-sep__001
-sep__002
-sep__003
-usuario-prueba01
-usuario-prueba02
-usuario-prueba03
-usuario-prueba04
-usuario-prueba05
-```
-- La clave es __123456__, salvo que se diga lo contrario.
+- Se debe dar de alta con una cuenta de gmail valida.
 
 # Frontend
 - Realizado en React / Next JS
