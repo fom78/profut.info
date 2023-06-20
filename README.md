@@ -1,4 +1,4 @@
-# __ProFut app__
+# __ProFut app__obs
 
 # Landing Page
 - Es una pagina de presentacion y explicacion como va a funcionar el juego.
